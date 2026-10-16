@@ -1,0 +1,13 @@
+ProductID,Brand,TherapeuticArea,ATC_Code,UnitPrice
+P01,Analgex 500,Pain & Inflammation,N02BE01,18
+P02,Inflamex 50,Pain & Inflammation,M01AB05,42
+P03,Respiro Inhaler,Respiratory,R03AC02,65
+P04,Breathewell Forte,Respiratory,R03BA02,120
+P05,Allerfree 10,Respiratory,R06AE07,28
+P06,Cardiosafe 10,Cardiovascular,C10AA05,85
+P07,Pressurex 5,Cardiovascular,C09AA05,60
+P08,Lipidown 20,Cardiovascular,C10AA01,72
+P09,Glucoreg 500,Diabetes,A10BA02,35
+P10,Insuvia Pen,Diabetes,A10AB05,210
+P11,Gastroease 20,Gastroenterology,A02BC01,48
+P12,Infectoclear 500,Anti-infectives,J01CA04,55

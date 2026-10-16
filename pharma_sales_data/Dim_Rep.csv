@@ -1,0 +1,25 @@
+RepID,RepName,TerritoryID,Manager
+R01,Ahmed Khan,T01,Omar Haddad
+R02,Sara Ali,T01,Omar Haddad
+R03,Yusuf Malik,T02,Omar Haddad
+R04,Fatima Noor,T02,Omar Haddad
+R05,Rohan Mehta,T03,Omar Haddad
+R06,Aisha Rahman,T03,Omar Haddad
+R07,Karim Saleh,T04,Omar Haddad
+R08,Maya Thomas,T04,Omar Haddad
+R09,Hassan Raza,T05,Layla Mansour
+R10,Lina Aziz,T05,Layla Mansour
+R11,Daniel George,T06,Layla Mansour
+R12,Zainab Hussain,T06,Layla Mansour
+R13,Imran Sheikh,T07,Layla Mansour
+R14,Noura Said,T07,Layla Mansour
+R15,Vikram Nair,T08,Rashid Qureshi
+R16,Huda Karim,T08,Rashid Qureshi
+R17,Bilal Ahmad,T09,Rashid Qureshi
+R18,Reem Tariq,T09,Rashid Qureshi
+R19,Arjun Pillai,T10,Nadia Farouk
+R20,Dana Mustafa,T10,Nadia Farouk
+R21,Faisal Anwar,T11,Nadia Farouk
+R22,Sana Iqbal,T11,Nadia Farouk
+R23,Tariq Jamil,T12,Nadia Farouk
+R24,Mariam Youssef,T12,Nadia Farouk
