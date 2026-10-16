@@ -1,4 +1,4 @@
-# Pharma Commercial Performance Dashboard (Power BI)
+# Pharma Commercial Performance Dashboard
 
 A two-page Power BI dashboard that tracks sales performance for a simulated
 pharmaceutical commercial operations team in the UAE.
